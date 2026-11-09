@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+node_modules/
+deep-learning/data/
+deep-learning/models/
+.DS_Store
+*.csv
